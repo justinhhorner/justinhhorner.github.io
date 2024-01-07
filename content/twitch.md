@@ -9,6 +9,14 @@ Join us on Twitch for game dev, programming, and gaming.
 {{< twitchplayer >}}
 
 
+## Stream Schedule (EST)
+Monday      |   8:00-10:00
+Tuesday     |   8:00-10:00 
+Wednesday   |   --
+Thursday    |   8:00-10:00 
+Friday      |   8:00-10:00 
+
+
 ## Game List
 ---
 ### Playing
