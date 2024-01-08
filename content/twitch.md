@@ -18,6 +18,16 @@ Join us on Twitch for game dev, programming, and gaming.
 | Thursday     | 8:00-10:00 |
 | Friday       | 8:00-10:00 |
 
+## Bot Commands
+- ama
+- twitter / x
+- github
+- blog
+- today
+- project
+- faq
+- studio
+- games
 
 ## Game List
 ### Playing
