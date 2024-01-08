@@ -1,4 +1,5 @@
 +++
+author = "Justin Horner"
 title = "A Month with VS Code (as a Neovim user, btw)"
 date = "2024-01-02"
 description = "Surviving a month using VS Code exclusively"

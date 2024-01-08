@@ -1,4 +1,5 @@
 +++
+author = "Justin Horner"
 title = "New year, new keyboard"
 date = "2024-01-04"
 description = "My first impressions of the Royal Kludge RK-S70"
